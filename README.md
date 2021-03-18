@@ -1,2 +1,1 @@
-# class25
-project 25
+# CP-2
